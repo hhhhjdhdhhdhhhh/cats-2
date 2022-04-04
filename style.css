@@ -1,0 +1,133 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+html,
+body {
+    background: black;
+}
+
+.container {
+    display: flex;
+}
+
+.line-1 {
+    width: 30%;
+    height: 100vh;
+}
+
+.line-2 {
+    height: 1500px;
+    width: 40%;
+    background-color: white;
+}
+
+.line-3 {
+    height: 100vh;
+    width: 30%;
+}
+
+.catt {
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.cats-1 {
+    width: 100%;
+    height: 100%;
+}
+
+.cat-img {
+    width: 325px;
+    height: 260px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.p1 {
+    position: relative;
+    left: 500px;
+    font-size: 2em;
+    bottom: 230px;
+}
+
+.p2 {
+    position: relative;
+    left: 500px;
+    bottom: 180px;
+    font-size: 2em;
+}
+
+.p3 {
+    position: relative;
+    left: 500px;
+    font-size: 2em;
+    bottom: 15px;
+}
+
+.p4 {
+    position: relative;
+    left: 500px;
+    bottom: 45px;
+    font-size: 2em;
+}
+
+.p-5 {
+    width: 520px;
+    position: relative;
+    left: 500px;
+    bottom: 210px;
+    left: 410px;
+    font-size: 1em;
+}
+
+.p-6 {
+    width: 350px;
+    position: relative;
+    left: 400px;
+    bottom: 155px;
+    font-size: 1em;
+}
+
+.p-7 {
+    width: 550px;
+    position: relative;
+    left: 400px;
+    font-size: 1em;
+}
+
+.p-8 {
+    width: 600px;
+    position: relative;
+    left: 400px;
+    top: 240px;
+    font-size: 1em;
+}
+
+.i1 {
+    position: absolute;
+    top: 1000px;
+}
+
+.i5 {
+    position: relative;
+    top: 50px;
+}
+
+.i2 {
+    position: absolute;
+    top: 400px;
+}
+
+.i3 {
+    position: absolute;
+    top: 700px;
+}
